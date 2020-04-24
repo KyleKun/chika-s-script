@@ -32,6 +32,7 @@ Use Chika's Script to:
 
 ### How to use
 First of all, you must define your username and path to save the files at settings.json inside of data folder:
+
     ```
     {
         "username": "Your Name",
