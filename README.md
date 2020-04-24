@@ -8,6 +8,7 @@ Basically, the core consists in an automated process to open the anime URL with 
 ## Features
 
 NOTE: Currently, animeshouse.net is the only supported URL.
+
 NOTE: If your OS is Windows, the program may not display some special characters on your cmd or powershell. To fix that, open it on Windows Terminal (Preview), which can be downloaded from Microsoft Store.
 
 Use Chika's Script to:
@@ -37,6 +38,7 @@ First of all, you must define your username and path to save the files at settin
         "path_to_save": "C:/Users/your-user/Desktop/"
     }
     ```
+    
 NOTE: Currently you have to do this manually using a text editor.
 
 After that, you can start the program and add an URL from an anime. The steps are:
