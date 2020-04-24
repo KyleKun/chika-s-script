@@ -1,0 +1,2 @@
+This is the default folder to place your downloaded files.
+To change it, edit settings.json.
